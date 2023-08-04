@@ -358,7 +358,8 @@ section#about {
 
 
 nav.navbar {
-    background: #5f0aa3;
+    background: #3b125c;
+    border-bottom: 1px solid mediumpurple;
 }
 
 .navbar-light .navbar-brand {
